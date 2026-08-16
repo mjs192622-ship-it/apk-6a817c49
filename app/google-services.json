@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "95400249048",
+        "project_id": "mku-pulse",
+        "storage_bucket": "mku-pulse.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:95400249048:android:36fa5c35b44a8dd185b9ad",
+                "android_client_info": {
+                    "package_name": "com.mkupulse.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBM5eprVpCy2lVJ48YkEhBuzrJ240H-b4k"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
